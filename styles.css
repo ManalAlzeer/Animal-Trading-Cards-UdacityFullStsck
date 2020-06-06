@@ -1,0 +1,27 @@
+/* add your CSS here */
+* {
+    box-sizing: border-box;
+}
+
+img {
+  width: 300px;
+}
+
+.animal-info {
+  font-style: italic ;
+  border : 2px solid grey;
+  padding: 1px;
+}
+
+span { font-weight:bold; }
+
+li {
+  list-style: none;
+  
+}
+
+#container{
+  border: 2px solid grey;
+  padding: 20px;
+  margin: 10px 0;
+}
